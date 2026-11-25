@@ -33,4 +33,16 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kirtimuskan421-creator/Leetcode2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kirtimuskan421-creator/Leetcode2/tree/master/0112-path-sum) |
+## Array
+|  |
+| ------- |
+| [2460-apply-operations-to-an-array](https://github.com/kirtimuskan421-creator/Leetcode2/tree/master/2460-apply-operations-to-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [2460-apply-operations-to-an-array](https://github.com/kirtimuskan421-creator/Leetcode2/tree/master/2460-apply-operations-to-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2460-apply-operations-to-an-array](https://github.com/kirtimuskan421-creator/Leetcode2/tree/master/2460-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
